@@ -13,4 +13,6 @@ const c: a = {
   b: "3232",
 };
 
+const a: string = "addfitch";
+
 console.log(b);
