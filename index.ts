@@ -8,4 +8,9 @@ const b: a = {
   b: "3",
 };
 
+const c: a = {
+  a: "2323",
+  b: "3232",
+};
+
 console.log(b);
